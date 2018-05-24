@@ -6,9 +6,10 @@
  */
 
 const solution = (a, b) => {
-  return 0;
-};
+  return a+b;}
 
-module.exports = {
+
+  
+  module.exports = {
   solution,
 };
