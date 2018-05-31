@@ -5,9 +5,9 @@
  */
 
 const solution = (a, b) => {
-  return 0;
+  if (a>b) return a;
+  if (b>a) return b;
 };
-
 module.exports = {
   solution,
 };
