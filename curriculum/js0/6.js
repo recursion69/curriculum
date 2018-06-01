@@ -6,10 +6,9 @@
  * @returns {number}
  */
 
-const solution = (a, b) => {
-  return true;
-};
-
+  const solution = (a,b) => {
+    return a>b
+}
 module.exports = {
   solution,
 };
