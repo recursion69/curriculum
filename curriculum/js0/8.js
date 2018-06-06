@@ -7,10 +7,12 @@
  */
 
 const solution = (a, b) => {
-  return () => {
-  };
-};
+	 const sum=(a,b) =>{
+		return a+b;
+	}
+return sum(a,b);
+}
 
 module.exports = {
-  solution,
+	solution,
 };
